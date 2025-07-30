@@ -7,7 +7,7 @@ para entender melhor e os códigos aqui para acompanhar.
   [Escopo e Namespace em Python](https://www.otaviomiranda.com.br/2025/namespace-escopo-python/)
 - Vídeo 1 - [Escopo e Namespace em Python](https://youtu.be/GkgbSIYSHUg)
 - Vídeo 2 -
-  [Entenda a regra LEGB e Enclosing no Python](https://youtu.be/GkgbSIYSHUg)
+  [Entenda a regra LEGB e Enclosing no Python](https://youtu.be/U8oF5WWpEGk)
 
 IMPORTANTE: se você quer usar o "sitecustomize.py" adicione o caminho da pasta
 raiz no `PATH`:
